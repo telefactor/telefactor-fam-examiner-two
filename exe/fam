@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'bundler'
+require 'bundler/setup'
+
+require 'fam/cli'
+
+# This is the actual entrypoint that gets hit by `bundle exec fam ...`
+Fam::CLI.call
