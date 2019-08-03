@@ -28,8 +28,16 @@ module Hatchery
         'Homer Simpson'
       end
 
+      def maggie
+        'Maggie Simpson'
+      end
+
       def marge
         'Marge Simpson'
+      end
+
+      def lisa
+        'Lisa Simpson'
       end
 
       def jose

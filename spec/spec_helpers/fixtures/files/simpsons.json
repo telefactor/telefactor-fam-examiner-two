@@ -1,0 +1,21 @@
+{
+  "Bart Simpson": [],
+  "Homer Simpson": [ "Grampa Simpson" ],
+  "Marge Simpson": [ "Clancy Bouvier", "Jacqueline Bouvier" ],
+  "Maggie Simpson": [ "Homer Simpson" ],
+  "Mona Simpson": [],
+  "Lisa Simpson": [ "Homer Simpson", "Marge Simpson" ],
+  "José Exemplo": [],
+  "Grampa Simpson": [ "Orville Simpson", "Yuma Hickman" ],
+  "Orville Simpson": [],
+  "Yuma Hickman": [],
+  "Ned Flanders": [],
+  "Rod Flanders": ["Ned Flanders", "Maude Flanders"],
+  "Maude Flanders": [],
+  "Clancy Bouvier": [ "Meaux Bouvier", "Genevieve Bouvier" ],
+  "Jacqueline Bouvier": [ "Alvarine Bisque", "Ferdinand Gurney" ],
+  "Meaux Bouvier": [],
+  "Genevieve Bouvier": [],
+  "Alvarine Bisque": [],
+  "Ferdinand Gurney": []
+}
